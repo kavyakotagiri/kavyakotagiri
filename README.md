@@ -1,6 +1,6 @@
 ![logo](https://github.com/kavyakotagiri/kavyakotagiri/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Kavya Kotagiri</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/kavyakotagiri/kavyakotagiri/blob/main/codingimg.gif">
 
@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kavyakotagiri](https://github.com/kavyakotagiri)
 
-- 💬 Ask me about **ETL, SQL, SSIS, SSRS, Big Data**
+- 💬 Ask me about **Data Engineering, ETL, SQL, Python, Big Data**
 
-- 📫 How to reach me **kotagirikavya99@gmail.com**
+- 📫 How to reach me **kavyakotagiri9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
