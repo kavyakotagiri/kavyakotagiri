@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on [Data Engineering Tools](https://github.com/kavyakotagiri/Data-Engineer-Tools)
 
-- 🌱 I’m currently learning **Big Data**
-
 - 👨‍💻 All of my projects are available at [https://github.com/kavyakotagiri](https://github.com/kavyakotagiri)
 
 - 💬 Ask me about **Data Engineering, ETL, SQL, Python, Big Data**
